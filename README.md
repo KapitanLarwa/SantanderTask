@@ -25,7 +25,6 @@ docker run --name redis -d -p 6379:6379 redis
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/KapitanLarwa/SantanderTask
-   cd HackerNewsApi
    ```
 
 2. **Set Up Environment Variables (Optional)**
