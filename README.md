@@ -73,6 +73,7 @@ GET /api/BestStories/{count}
 - Introduce **Database Persistence** for historical data tracking.
 - Optimize Redis caching strategy with **Sliding Expiration**.
 - Implement **Circuit Breaker** pattern to handle API failures.
+- Add logging 
 - moving DI out of Program.cs
 
 ## Running Unit Tests
